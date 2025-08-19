@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Sample Show 1",
+    "description": "This is the first sample show.",
+    "posterUrl": "https://via.placeholder.com/150",
+    "totalEpisodes": 12,
+    "watchedEpisodes": 0
+  },
+  {
+    "id": "2",
+    "title": "Sample Show 2",
+    "description": "This is the second sample show.",
+    "posterUrl": "https://via.placeholder.com/150",
+    "totalEpisodes": 24,
+    "watchedEpisodes": 0
+  }
+]
